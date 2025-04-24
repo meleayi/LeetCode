@@ -1,0 +1,17 @@
+# C++
+*.exe
+*.out
+*.o
+*.so
+*.a
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+.venv/
+
+# VS Code
+.vscode/
+!.vscode/settings.json
